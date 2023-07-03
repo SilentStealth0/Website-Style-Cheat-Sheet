@@ -24,5 +24,13 @@ nav li{
   padding-right:5px;
   font-size: 21px;;
   padding-top: 15px;
+  cursor: pointer;
 }
 
+li:hover{
+  text-decoration: underline;
+}
+
+li:active{
+  color:#ff9ea2
+}
