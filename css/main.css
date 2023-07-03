@@ -1,7 +1,7 @@
 header{
   background-color: #9ea2ff ;
   position: fixed;
-  z-index: 0;
+  z-index: 10;
   top: 0;
   left: 0;
   width: 100%;
@@ -33,4 +33,13 @@ li:hover{
 
 li:active{
   color:#ff9ea2
+}
+main{
+  margin-top: 130px;
+}
+.color_sec{
+}
+
+footer{
+  background-color: #5259ff;
 }
