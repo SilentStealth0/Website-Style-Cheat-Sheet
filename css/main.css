@@ -15,7 +15,6 @@ header h1{
 }
 nav{
   float:right;
-    border:5px solid red;
   text-align: center;
   padding-right: 15px;
 }
