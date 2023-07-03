@@ -9,9 +9,9 @@ header{
 }
 
 header h1{
-  padding-left: 15px;
+  padding-left: 25px;
   border:5px solid red;
-  text-align: center;
+  text-align: left;
 }
 nav{
   float:right;
