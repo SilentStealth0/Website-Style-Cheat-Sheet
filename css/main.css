@@ -12,6 +12,8 @@ header h1{
   padding-left: 25px;
   text-align: left;
 }
+
+/*TODO: Use Philosopher for heading and Libre for content */
 nav{
   float:right;
   text-align: center;
