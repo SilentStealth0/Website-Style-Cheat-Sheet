@@ -39,6 +39,9 @@ li:active{
 main{
   margin-top: 100px;
 }
+table{
+  margin:auto;
+}
 .color_sec{
 }
 /*TODO: Use #ededed for section background section*/
