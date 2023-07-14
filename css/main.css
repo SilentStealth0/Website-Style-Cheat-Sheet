@@ -36,6 +36,10 @@ li:hover{
 li:active{
   color:#ff9ea2
 }
+
+body{
+  margin: 0;
+}
 main{
   margin-top: 100px;
   font-family: 'Libre Baskerville', serif;
