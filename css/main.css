@@ -6,6 +6,7 @@ header{
   left: 0;
   width: 100%;
   color: #fffdd1;
+  font-family: 'Philosopher', sans-serif;
 }
 
 header h1{
@@ -13,7 +14,6 @@ header h1{
   text-align: left;
 }
 
-/*TODO: Use Philosopher for heading and Libre for content */
 nav{
   float:right;
   text-align: center;
@@ -38,6 +38,7 @@ li:active{
 }
 main{
   margin-top: 100px;
+  font-family: 'Libre Baskerville', serif;
 }
 table{
   margin:auto;
