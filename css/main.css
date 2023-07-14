@@ -39,6 +39,7 @@ li:active{
 main{
   margin-top: 100px;
   font-family: 'Libre Baskerville', serif;
+  text-align: center;
 }
 
 .Philo-font{
@@ -51,6 +52,7 @@ table{
 .color_sec{
 }
 /*TODO: Use #ededed for section background section*/
+
 
 /*TODO: Use #9efffb for button selection*/
 footer{
