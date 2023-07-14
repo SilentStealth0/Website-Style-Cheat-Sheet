@@ -53,10 +53,11 @@ table{
 section:nth-child(even){
   background-color: #ededed;
   width: 100%;
-
+  padding: 40px 0;
 }
 
-.color_sec{
+.colors-container table{
+  height: 450px;
 }
 /*TODO: Use #ededed for section background section*/
 
