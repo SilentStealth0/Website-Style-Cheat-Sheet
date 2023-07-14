@@ -53,8 +53,7 @@ table{
 section:nth-child(even){
   background-color: #ededed;
   width: 100%;
-  position: relative;
-  left: 0;
+
 }
 
 .color_sec{
