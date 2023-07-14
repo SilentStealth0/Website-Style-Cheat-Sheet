@@ -50,10 +50,18 @@ main{
   font-family: 'Philosopher', sans-serif;
   font-size: 20px;
 }
-table{
-  margin:auto;
+
+.container{
+  width: 900px;
+  margin: 0 auto;
+}
+.description{
+  width: 50%;
 }
 
+section{
+  width: 100%;
+}
 section:nth-child(even){
   background-color: #ededed;
   width: 100%;
@@ -63,7 +71,6 @@ section:nth-child(even){
 .tab-color{
   height: 450px;
 }
-/*TODO: Use #ededed for section background section*/
 
 
 /*TODO: Use #9efffb for button selection*/
