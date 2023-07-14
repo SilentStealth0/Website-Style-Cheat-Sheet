@@ -60,7 +60,7 @@ section:nth-child(even){
   padding: 40px 0;
 }
 
-.colors-container table{
+.tab-color{
   height: 450px;
 }
 /*TODO: Use #ededed for section background section*/
