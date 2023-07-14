@@ -49,6 +49,14 @@ main{
 table{
   margin:auto;
 }
+
+section:nth-child(even){
+  background-color: #ededed;
+  width: 100%;
+  position: relative;
+  left: 0;
+}
+
 .color_sec{
 }
 /*TODO: Use #ededed for section background section*/
