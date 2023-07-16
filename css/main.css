@@ -78,7 +78,7 @@ footer{
   background-color: #cb9eff;
 }
 
-/*Temporary, delete after bulding tables*/
+/*Temporary, delete after building tables*/
 table,td,tr,th{
   border: 2px solid black;
   border-collapse: collapse;
