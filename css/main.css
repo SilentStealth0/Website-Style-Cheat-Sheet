@@ -41,10 +41,12 @@ body{
   margin: 0;
 }
 main{
-  margin-top: 100px;
+  mar
   font-family: 'Libre Baskerville', serif;
   text-align: center;
 }
+
+
 
 .Philo-font h3,p{
   font-family: 'Philosopher', sans-serif;
@@ -54,6 +56,7 @@ main{
 .container{
   width: 900px;
   margin: 0 auto;
+  padding: 50px 0;
 }
 .description{
   width: 50%;
@@ -65,7 +68,6 @@ section{
 section:nth-child(even){
   background-color: #ededed;
   width: 100%;
-  padding: 40px 0;
 }
 
 .tab-color{
