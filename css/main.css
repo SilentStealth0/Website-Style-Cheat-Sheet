@@ -46,7 +46,7 @@ main{
   text-align: center;
 }
 
-.Philo-font{
+.Philo-font h3,p{
   font-family: 'Philosopher', sans-serif;
   font-size: 20px;
 }
