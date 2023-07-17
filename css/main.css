@@ -72,6 +72,19 @@ section:nth-child(even){
   height: 450px;
 }
 
+/*CSS for Color Section */
+.color-header{
+  background-color: #9ea2ff;
+}
+.color-section{
+  background-color: #ededed;
+}
+.color-buttons{
+  background-color: #9efffb;
+}
+.color-footer{
+  background-color: #cb9eff;
+}
 
 /*TODO: Use #9efffb for button selection*/
 footer{
