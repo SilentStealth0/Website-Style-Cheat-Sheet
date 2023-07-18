@@ -101,6 +101,13 @@ section:nth-child(even){
 /*TODO: Use #9efffb for button selection*/
 footer{
   background-color: #cb9eff;
+  color: #D2FF9E;
+}
+
+footer p{
+  margin: 0;
+  padding: 20px 0;
+  text-align: right;
 }
 
 /*Temporary, delete after building tables*/
