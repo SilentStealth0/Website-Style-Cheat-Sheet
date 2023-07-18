@@ -88,6 +88,8 @@ li{
   text-align:initial;
 }
 
+
+
 /*CSS for Color Section */
 .color-header{
   background-color: #9ea2ff;
@@ -100,6 +102,25 @@ li{
 }
 .color-footer{
   background-color: #cb9eff;
+}
+
+.text-main{
+  background-color: #9ea2ff;
+  font-family: 'Philosopher', sans-serif;
+  color: #fffdd1;
+}
+
+.text-anchor{
+  background-color: #9ea2ff;
+  font-family: 'Philosopher', sans-serif;
+  color: #fffdd1;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 21px;
+}
+
+.text-anchor:active{
+  color:#ff9ea2;
 }
 
 /*TODO: Use #9efffb for button selection*/
