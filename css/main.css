@@ -98,7 +98,7 @@ li{
   background-color: #ededed;
 }
 .color-buttons{
-  background-color: #9efffb;
+  background-color: #1afff6;
 }
 .color-footer{
   background-color: #cb9eff;
@@ -120,7 +120,7 @@ li{
   padding: 0 5px;
 }
 
-#text_sec ul li{
+section ul li{
   line-height: 25px;
 }
 
@@ -134,6 +134,16 @@ button{
   cursor: pointer;
   font-weight: 600;
   font-size: 15px;
+  border-radius: 5px;
+}
+#btn-standard{
+  background-color: #1afff6;
+}
+#btn-standard:hover{
+  background-color: #89fffa;
+}
+#btn-Skeu{
+
 }
 footer{
   background-color: #cb9eff;
