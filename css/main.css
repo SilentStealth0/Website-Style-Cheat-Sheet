@@ -148,6 +148,13 @@ button{
   background: linear-gradient(#1afff6, #00dcd3);
   text-shadow: 0 -1.5px #12b9b5;
 }
+
+#btn-Skeu:hover{
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1), 0 -2px 2px rgba(255, 255, 255, 0.25) inset, 0 2px 2px rgba(255, 255, 255, 0.4) inset;
+  background: #00dcd3;
+  background: linear-gradient(#00dcd3, #12b9b5);
+  border-color: #008d87;
+}
 footer{
   background-color: #cb9eff;
   color: #fffc9e;
