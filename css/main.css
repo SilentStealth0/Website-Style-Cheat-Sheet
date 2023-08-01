@@ -127,7 +127,7 @@ section ul li{
 
 /*Button section CSS*/
 #button_sec ul{
-
+  padding-left: 130px;
 }
 button{
   height: 50px;
@@ -159,7 +159,7 @@ button{
 }
 
 #btn-Skeu:active{
-  box-shadow: 0px 2px 2px rgba(63, 63, 63, 0.1), 0px -2px 2px rgba(255, 255, 255, 0.25) inset, 0 2px 2px rgba(255, 255, 255, 0.4) inset;
+  box-shadow: 0 2px 2px rgba(63, 63, 63, 0.1), 0 -2px 2px rgba(255, 255, 255, 0.25) inset, 0 2px 2px rgba(255, 255, 255, 0.4) inset;
   margin-bottom: -2px;
   margin-top: 2px;
   background:#0f9390 ;
