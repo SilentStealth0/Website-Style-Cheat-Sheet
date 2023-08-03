@@ -172,6 +172,12 @@ button{
   border-radius: 10px;
 }
 
+#btn-flat:hover{
+  background-color: #1be1dc;
+  color: white;
+  transition: background-color .15s, font-size .20s;
+  font-size: 18px;
+}
 
 /*Footer Section CSS*/
 footer{
