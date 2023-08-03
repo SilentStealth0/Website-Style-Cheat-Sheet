@@ -147,7 +147,7 @@ button{
 #btn-Skeu{
   border: 2px solid #12b9b5;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2), 0 -2px 2px rgba(255, 255, 255, 0.5) inset, 0 2px 2px rgba(255, 255, 255, 0.8) inset;
-  background: linear-gradient(#1afff6, #00dcd3);
+  background: linear-gradient(#1afff6, #28bbb5);
   text-shadow: 0 -1.5px #12b9b5;
 }
 
@@ -162,7 +162,8 @@ button{
   box-shadow: 0 2px 2px rgba(63, 63, 63, 0.1), 0 -2px 2px rgba(255, 255, 255, 0.25) inset, 0 2px 2px rgba(255, 255, 255, 0.4) inset;
   margin-bottom: -2px;
   margin-top: 2px;
-  background:#0f9390 ;
+  background:#0f9390;
+  background: linear-gradient(#0f9390,#17d9d2);
 }
 
 /*Footer Section CSS*/
