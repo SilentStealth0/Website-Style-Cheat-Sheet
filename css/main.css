@@ -167,6 +167,10 @@ button{
 }
 
 /*Flat Button CSS*/
+#btn-flat{
+  border: 3px solid #1afff6;
+  border-radius: 10px;
+}
 
 
 /*Footer Section CSS*/
